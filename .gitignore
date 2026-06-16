@@ -1,0 +1,15 @@
+# Visual Studio
+.vs
+
+# Build outputs
+bin
+obj
+
+# User-specific files
+.user
+.suo
+.cache
+.log
+
+# .NET secrets (si tu utilises user-secrets plus tard)
+secrets.json
